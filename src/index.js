@@ -19,4 +19,4 @@ client.on("interactionCreate", async(interaction)=>{
     }
 })
 
-client.login("MTAzMDIzMDMyMTY3OTA2MTA1NA.GYxiYq.gpkUyQ9H4tUkQ6Sfi2o5fPNQtOjKLokI28mAKQ")
+client.login()
